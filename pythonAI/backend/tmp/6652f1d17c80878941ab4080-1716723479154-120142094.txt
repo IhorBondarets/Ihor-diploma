@@ -1,0 +1,17 @@
+<<devicez> HostMachine
+<<Network>> Docker Network
+<<device>> :Userclient
+<<Container>> Client
+React app
+<<Artifact>> Browser
+<<Protocol>> https
+< <Container>> DBServer
+<<Component>> Web Application
+<<Container>> Webserver {NodeJs}
+Application Logic
+<<Database>> PostgresQL
+<<Protocol>> ÒCÐ/IP
+<<Protocol>> https
+Express Midleware
+Route Handler
+Trained AI model
